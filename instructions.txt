@@ -1,0 +1,2 @@
+Press 'enter' for car to move
+Press 'w'to turn lights on or off
